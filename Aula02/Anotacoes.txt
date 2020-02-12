@@ -14,3 +14,17 @@ Linguagem Padrão de Acesso a BD relacionais
 
 Normalização ANSI e ISO
 	SQL89, SQL92, SQL3, etc
+
+Objetivo Principal	
+	Tratamento unificado da definição, manipulação, e controle dos dados, sendo util para todos as classes de utilizadores.
+
+Acesso a Banco de Dados 
+
+	Cliente (SQL,PL/SQL,SQL embutido, JDBC, ODBC) acesso servidor.
+
+BD Biblioteca
+
+	
+
+
+			
